@@ -1,6 +1,6 @@
 # hello-world
 
-Hello Humans!
+Hello humans!
 
 Jerome Here,
 
